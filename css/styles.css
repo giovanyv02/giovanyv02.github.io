@@ -574,6 +574,11 @@ progress {
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
 }
+.live{
+  color: #0c4128;
+  text-decoration: underline;
+  font-weight: bold;
+}
 
 .initialism {
   font-size: 0.875em;
@@ -10829,6 +10834,7 @@ html {
   height: 100%;
   scroll-padding-top: calc(4.5rem - 1px);
 }
+
 
 .page-section {
   padding: 6rem 0;
